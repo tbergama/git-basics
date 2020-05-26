@@ -3,3 +3,4 @@ People:
 - Tom
 - Brendan
 - Jen
+- Emily
