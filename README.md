@@ -1,5 +1,7 @@
 # git-basics
 
+A short tutorial I wrote to introduce some coworkers to git fundamentals.
+
 ## What is Git?
 
 Git is a version control system. It is designed to make it easier for teams to collaborate by tracking a project's history of changes.
